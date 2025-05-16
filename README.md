@@ -24,10 +24,10 @@
 ![image](https://raw.githubusercontent.com/Ekaterina136/cypress.js/refs/heads/main/beforeEach.png)
 
 3. Переменные данные для авторизации вынесены в отдельный файл
-![image](https://raw.githubusercontent.com/German-D/new_cypress/main/static/user_data.png)
+![image](https://raw.githubusercontent.com/Ekaterina136/cypress.js/refs/heads/main/default%20data.png)
 
 4. Каждая страница описана в формате объекта с локаторами
-![image](https://raw.githubusercontent.com/German-D/new_cypress/main/static/locators.png)
+![image](https://raw.githubusercontent.com/Ekaterina136/cypress.js/refs/heads/main/main%20page.png)
 
 ## Локальный запуск тестов (из терминала)
 1. Скачать проект
@@ -37,7 +37,7 @@
 npx cypress run --spec cypress/e2e/lesson_locators.cy.js --browser chrome
 ```
 Ожидаемый результат: получим отчет о прохождении тестов.
-
+![image](https://raw.githubusercontent.com/Ekaterina136/cypress.js/refs/heads/main/new_cypress.png)
 
 
 ## Локальный запуск через Cypress UI
