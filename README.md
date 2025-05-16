@@ -1,2 +1,2 @@
 # cypress.js
-Примеры автотестов на cypress
+Автотесты на UI с помощью JS + Cypress
